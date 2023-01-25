@@ -1,0 +1,62 @@
+@media (max-width: 480px) {
+    .titulo span{    
+      font-size: 50px !important;
+      line-height: 50px !important;
+      
+    }
+    .titulo{
+        padding: 5px !important;
+      margin: 10px !important;
+    }
+
+    .box1{
+        padding: 10px !important;
+        margin: 0px !important;
+        border-radius: 10px !important;
+    }
+
+    #seccion-3 .p-5 {
+        padding: 10px !important;
+        margin-bottom: 20px ;
+    }
+    #seccion-4 .p-5 {
+        padding: 10px !important;
+        margin-bottom: 20px ;
+    }
+    .boxresponsive p{
+        padding: 20px !important;
+    }
+
+    .boxresponsive {
+        margin-top: 20px !important;
+    }
+
+    .product{
+        background-position: right;
+        margin-top: 50px !important;
+        padding: 20px !important;
+        min-height: 100vh !important;
+
+    }
+
+    .titulo-team span{
+        font-size: 40px !important;
+      line-height: 40px !important;
+    }
+
+
+    .team-container{
+        padding: 20px  !important;
+    }
+
+    hr{
+        padding: 20px !important;
+    }
+    .bgfotter{
+        background-position: center;
+        height: 20vh !important;
+    }
+
+
+
+  }
